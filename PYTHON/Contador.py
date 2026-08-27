@@ -19,7 +19,7 @@ while True:
                 print(numero)
 
         else:
-            print("OBS: o o início é maior que o fim, o intervalo será invertido para negativo.")
+            print("OBS: o início é maior que o fim, o intervalo será invertido para negativo.")
 
             if intervalo > 0:
                 intervalo = -intervalo
