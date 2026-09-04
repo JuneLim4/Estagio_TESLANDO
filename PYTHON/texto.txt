@@ -1,1 +1,0 @@
-1 teste com o comando cat.
