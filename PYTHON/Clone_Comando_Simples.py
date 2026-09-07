@@ -39,10 +39,6 @@ def comando_ls():
         else:
             print("\nPasta não encontrada.\n")
 
-    else:
-        print("\nPasta não encontrada.\n")
-
-
 # cat
 
 def comando_cat():
