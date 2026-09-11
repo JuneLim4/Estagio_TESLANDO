@@ -1,0 +1,42 @@
+------------------------
+Pessoa 1
+------------------------
+Nome: George
+Sobrenome: Bluth
+E-mail: george.bluth@reqres.in
+
+------------------------
+Pessoa 2
+------------------------
+Nome: Janet
+Sobrenome: Weaver
+E-mail: janet.weaver@reqres.in
+
+------------------------
+Pessoa 3
+------------------------
+Nome: Emma
+Sobrenome: Wong
+E-mail: emma.wong@reqres.in
+
+------------------------
+Pessoa 4
+------------------------
+Nome: Eve
+Sobrenome: Holt
+E-mail: eve.holt@reqres.in
+
+------------------------
+Pessoa 5
+------------------------
+Nome: Charles
+Sobrenome: Morris
+E-mail: charles.morris@reqres.in
+
+------------------------
+Pessoa 6
+------------------------
+Nome: Tracey
+Sobrenome: Ramos
+E-mail: tracey.ramos@reqres.in
+
